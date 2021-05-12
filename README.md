@@ -33,9 +33,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### Novos Aprendizados
 
-- [useContext Hook](https://reactjs.org/docs/hooks-reference.html#usecontext)
+- [useContext](https://reactjs.org/docs/hooks-reference.html#usecontext) Hook
 - SSR (Server Side Rendering)
-- JS Cookie ([js-cookie]()https://github.com/js-cookie/js-cookie)
+- [JS Cookie](https://github.com/js-cookie/js-cookie)
 - Deploy na [Vercel](vercel.com/)
 
 
@@ -46,11 +46,11 @@ Você pode visualizar o layout da versão 1 desse projeto através [desse link](
 <div>
   <img style="display:block;" alt="Home page" title="Home" src=".github/home.png" /></br>
   <img style="display:block;"  alt="Home page with cycle closed" title="Cycle closed" src=".github/home_with_cycle_closed.png" /></br>
-  <img style="display:block;"  alt="Level Up" title="Level Up" src=".github/level-up.png" /></br>
+  <img style="display:block;" alt="Level Up" title="Level Up" src=".github/level-up.png" /></br>
 
   <div>
-    <img alt="Challenge to Body" title="Challenge to Body" src=".github/challenge-to-body.png" />
-    <img alt="Challenge to Eyes" title="Challenge to Eyes" src=".github/challenge-to-eyes.png" />
+    <img style="float:left;whith:50%" alt="Challenge to Body" title="Challenge to Body" src=".github/challenge-to-body.png" />
+    <img style="whith:50%"  alt="Challenge to Eyes" title="Challenge to Eyes" src=".github/challenge-to-eyes.png" />
   </div>
   </br>
 
